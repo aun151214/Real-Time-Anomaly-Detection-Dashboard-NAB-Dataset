@@ -1,5 +1,16 @@
 # 🚨 Real-Time Anomaly Detection Dashboard (NAB)
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+A portfolio-ready project demonstrating **real-time anomaly detection** on the **Numenta Anomaly Benchmark (NAB)** dataset.  
+
+This project simulates **industrial sensor anomaly detection** with a live **Streamlit dashboard** for monitoring.  
+
+
 A portfolio-ready project demonstrating **real-time anomaly detection** on the **Numenta Anomaly Benchmark (NAB)** dataset.  
 
 This project simulates **industrial sensor anomaly detection** with a live **Streamlit dashboard** for monitoring.  
