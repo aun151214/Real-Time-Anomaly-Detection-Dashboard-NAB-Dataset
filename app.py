@@ -21,7 +21,7 @@ st.title("🚨 Real-Time Anomaly Detection Dashboard (NAB)")
 with st.sidebar:
     st.header("Settings")
     nab_root = st.text_input(
-        "Path to NAB root", value="../NAB", help="Folder that contains the official NAB checkout"
+        "Path to NAB root", value="./NAB", help="Folder that contains the official NAB checkout"
     )
     rel_csv = st.text_input(
         "Relative CSV in NAB/data/",
